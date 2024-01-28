@@ -5,7 +5,7 @@
 
 # Módulo 4: Nivel de transporte - Sockets
 
-Versión: 14 de enero de 2022
+Versión: 14 de enero de 2024
 
 ## Objetivos
  * Afianzar los conocimientos obtenidos sobre el desarrollo de aplicaciones cliente-servidor utilizando sockets TCP.
