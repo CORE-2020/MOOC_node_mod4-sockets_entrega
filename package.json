@@ -6,8 +6,8 @@
     "info": {
         "githubURL": "ging-moocs/MOOC_node_mod4-sockets_entrega",
         "serverUrl": "https://moocbot.dit.upm.es/",
-        "courseId": "1601",
-        "assignmentId": "984"
+        "courseId": "138",
+        "assignmentId": "46"
     },
     "assets": [
         "./node_modules/sqlite3/lib/binding/**/*"
@@ -27,6 +27,6 @@
         "sequelize": "^6.6.5",
         "sequelize-cli": "^6.2.0",
         "sqlite3": "^5.1.7",
-        "autocorector": "^3.1.3"
+        "autocorector": "^3.5.0"
     }
 }
